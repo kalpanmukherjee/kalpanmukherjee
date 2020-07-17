@@ -1,3 +1,3 @@
 ### 🙏 Namaste ✋ Hola 👋 Hello 
 
-### Welcome to my profile 😄
+### I'm Kalpan, duh 😄
