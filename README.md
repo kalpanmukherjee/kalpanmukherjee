@@ -2,4 +2,4 @@
 
 ### I'm Kalpan, 💁 duh 
 
-![image](assets/1.png)
+## and I do stuff
