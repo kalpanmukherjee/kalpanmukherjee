@@ -1,1 +1,1 @@
-### Namaste 🙏 Hola ✋ Hello 👋
+### 🙏 Namaste ✋ Hola 👋 Hello 
