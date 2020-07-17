@@ -16,6 +16,12 @@
  - [ ] 💬[ZoomKorona](https://github.com/kalpanmukherjee/zoomKorona)💬It's a pain to remember to join all the million meetings you have to get to specially when you are busy binging Netflix 😪
  - [ ] 🔋[ElectroMaps](https://github.com/sabm0hmayahai/Electro-Maps)🔋The days of rushing to take a hot bath while electricity is still there are long gone 🚿
  - [ ] 📔[HandwritingDigitization](https://github.com/sabm0hmayahai/handwriting-project)📔Concentrate on the class going on. Digitized notes are already on the cloud ☁️
+ 
+<p align="center"> Let's have a chat on </p> 
+<p align="center">
+	<a href="https://github.com/kalpanmukherjee"><img src="https://img.shields.io/github/followers/kalpanmukherjee.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/kalpanmukherjee/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 
 The other members of the dream team are [@irajeshedgde](https://github.com/irajeshegde) & [@thribhuvangupta](https://github.com/ThribhuvanGuptaS)
