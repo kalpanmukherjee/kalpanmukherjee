@@ -18,4 +18,4 @@
  - [ ] 📔[HandwritingDigitization](https://github.com/sabm0hmayahai/handwriting-project)📔Concentrate on the class going on. Digitized notes are already on the cloud ☁️
 
 
-Other members of the dream team - [@irajeshedgde](https://github.com/irajeshegde) & [@thribhuvangupta](https://github.com/ThribhuvanGuptaS)
+Other members of the dream team are [@irajeshedgde](https://github.com/irajeshegde) & [@thribhuvangupta](https://github.com/ThribhuvanGuptaS)
