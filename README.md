@@ -4,7 +4,7 @@
 ### and I do stuff 😮
 
 > What *stuff*, Kalpan?
-#### Glad you asked...
+### Glad you asked...
 
  - Data Science - TensorFlow, Python, Scikit Learn, Pandas, Numpy, Matplotlib
  - Android Development - React Native(CLI/Expo), Flutter(Dart)
