@@ -1,7 +1,14 @@
+```javascript
+import { Developer } from 'GitHub';
+```
+
+
 ### 🙏  Namaste  ✋  Hola  👋  Hello
 
 ###  I'm Kalpan, duh 💁 and I do **stuff** 😮
 ### 
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/vinitshahdeo)
 
 > What *stuff*, Kalpan? 
 ### Glad you asked...
