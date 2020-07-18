@@ -1,9 +1,9 @@
 ### 🙏  Namaste  ✋  Hola  👋  Hello
 
-###  I'm Kalpan, duh 💁 and I do **stuff** 
+###  I'm Kalpan, duh 💁 and I do **stuff** 😮
 ### 
 
-> What *stuff*, Kalpan? 😮
+> What *stuff*, Kalpan? 
 ### Glad you asked...
 
  - 📈 Data Science - TensorFlow, Python, Keras, Scikit Learn, Pandas, Numpy, Matplotlib
@@ -23,7 +23,7 @@
 <p align="center">
 	<a href="https://github.com/kalpanmukherjee"><img src="https://img.shields.io/github/followers/kalpanmukherjee.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/kalpanmukherjee/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	
+	<a href="https://kalpan.codes/"><img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="website"></a>
 </p>
 
 
