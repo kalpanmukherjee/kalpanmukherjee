@@ -23,7 +23,7 @@
 <p align="center">
 	<a href="https://github.com/kalpanmukherjee"><img src="https://img.shields.io/github/followers/kalpanmukherjee.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/kalpanmukherjee/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://kalpan.codes/"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome" alt="website"></a>
+	<a href="https://kalpan.codes/"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=black" alt="website"></a>
 </p>
 
 
