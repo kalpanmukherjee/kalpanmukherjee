@@ -1,4 +1,3 @@
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=kalpanmukherjee.visitor-badge)](https://github.com/kalpanmukherjee)
 ### 🙏  Namaste  ✋  Hola  👋  Hello
 
 ###  I'm Kalpan, duh 💁 and I do **stuff** 😮
